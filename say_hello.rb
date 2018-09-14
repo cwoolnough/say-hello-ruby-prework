@@ -1,5 +1,5 @@
 # Build your say_hello method here
-def say_hello(name)
+def say_hello(name = "Roby Programme")
   puts "Hello #{name}!"
 end
 
